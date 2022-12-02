@@ -1,0 +1,8 @@
+desktop-jrm1479\fefasa
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.106.76
+
+Direcci¢n f¡sica    Nombre de transporte                                      
+=================== ==========================================================
+84-47-09-0C-5D-5D   Medios desconectados                                      
+38-87-D5-B8-E4-A7   Medios desconectados                                      
+38-87-D5-B8-E4-A3   \Device\Tcpip_{715C5ECC-0456-477F-8CAF-4B2E10CF447E}      
